@@ -6,37 +6,43 @@
 
 **What This Session is About**
 
-
+As leaders of open source projects, online communities, user groups, and/or workplaces, we all play an integral part in crafting the culture of our groups. It falls on our shoulders to help create healthy communities and teams that are as diverse and inclusive as possible, but what does that mean? Where do we start? 
 
 **Summary**
-
+This workshop will offer attendees some best practices and practical strategies for building inclusion into our communities. The workshop is intended for intermediate to experienced leaders.
 
 
 **Table of Contents**
-- [Prerequisites](#prerequisites)
-- [Cheat Sheets](#cheat-sheets)
-- [End Product](#end-product)
-- [Resources](#extended-resources)
+- [Prerequisites]
+- [Recommended Reading & Resources]
+- [Connect w/Bianca]
 
 ## Prerequisites
+Just an open mind. :smile:
+
+## Recommended Reading & Resources
+### Benefits of Diversity & Inclusion
+- [The Competitive Advantage of Racial Equity](https://www.fsg.org/publications/competitive-advantage-racial-equity) - FSG
+- [How Diversity Can Drive Innovation](https://hbr.org/2013/12/how-diversity-can-drive-innovation) - Harvard Business Review
+- [Why Diverse Teams Are Smarter](https://hbr.org/2016/11/why-diverse-teams-are-smarter) - Harvard Business Review
+- [Why diversity matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) - McKinsey
+
+### When D&I Isn't Prioritized
+- [Three quarters of whites don’t have any non-white friends](https://www.washingtonpost.com/news/wonk/wp/2014/08/25/three-quarters-of-whites-dont-have-any-non-white-friends/?utm_term=.214747abd6a1)
+- [Gender differences and bias in open source: pull request acceptance of women versus men](https://peerj.com/articles/cs-111/)
+- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/)
+
+### Building Inclusive Cultures
+- [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- [How to build inclusive culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1)
+
+### Codes of Conduct
+- [Women in Tech Chat](http://witchat.github.io/) 
+- [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/)
+- [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
-
-## Cheat-Sheets
-The cheat sheets for each activity are linked here:
-
-- [Exercise 1: Getting Started](cheat-sheets/1-getting-started.md)
-- [Exercise 2: Diving In](cheat-sheets/2-diving-in.md)
-- [Exercise 3: Electron Defaults](cheat-sheets/3-electron-defaults.md)
-- [Exercise 4: Refactoring](cheat-sheets/4-refactoring.md)
-- [Exercise 5: Packaging](cheat-sheets/5-packaging.md)
-- [Exercise 6: Packaging Extensions](cheat-sheets/6-packaging-extensions.md)
-- [Exercise 7: Refresh](cheat-sheets/7-refresh.md)
-- [Exercise 8: CYOA](cheat-sheets/8-CYOA.md)
-
-## End Product
-
-
-## Extended Resources
-
-
+## Connect w/Bianca
+- [GitHub](https://github.com/bescalante)
+- [Twitter](https://twitter.com/BiancaCreating)
+- [LinkedIn](https://www.linkedin.com/in/biancaescalante/)

@@ -15,7 +15,7 @@ This workshop will offer attendees some best practices and practical strategies 
 **Table of Contents**
 - [Prerequisites](#prerequisites)
 - [Recommended Reading & Resources](#recommended-reading-and-resources)
-- [Connect w/Bianca](#connect-with-bianca)
+- [Connect with Bianca](#connect-with-bianca)
 
 ## Prerequisites
 Just an open mind. :smile:

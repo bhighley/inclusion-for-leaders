@@ -14,11 +14,15 @@ This workshop will offer attendees some best practices and practical strategies 
 
 **Table of Contents**
 - [Prerequisites](#prerequisites)
+- [Deck](#deck)
 - [Recommended Reading & Resources](#recommended-reading-and-resources)
 - [Connect with Bianca](#connect-with-bianca)
 
 ## Prerequisites
 Just an open mind. :smile:
+
+## Deck
+[Inclusion for Leaders](https://speakerdeck.com/bescalante/inclusion-for-leaders)
 
 ## Recommended Reading and Resources
 ### Benefits of Diversity & Inclusion

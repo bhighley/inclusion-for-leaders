@@ -13,14 +13,14 @@ This workshop will offer attendees some best practices and practical strategies 
 
 
 **Table of Contents**
-- [Prerequisites]
-- [Recommended Reading & Resources]
-- [Connect w/Bianca]
+- [Prerequisites](#prerequisites)
+- [Recommended Reading & Resources](#recommended-reading-and-resources)
+- [Connect w/Bianca](#connect-with-bianca)
 
 ## Prerequisites
 Just an open mind. :smile:
 
-## Recommended Reading & Resources
+## Recommended Reading and Resources
 ### Benefits of Diversity & Inclusion
 - [The Competitive Advantage of Racial Equity](https://www.fsg.org/publications/competitive-advantage-racial-equity) - FSG
 - [How Diversity Can Drive Innovation](https://hbr.org/2013/12/how-diversity-can-drive-innovation) - Harvard Business Review
@@ -42,7 +42,7 @@ Just an open mind. :smile:
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
-## Connect w/Bianca
+## Connect with Bianca
 - [GitHub](https://github.com/bescalante)
 - [Twitter](https://twitter.com/BiancaCreating)
 - [LinkedIn](https://www.linkedin.com/in/biancaescalante/)
